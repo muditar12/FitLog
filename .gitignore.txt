@@ -1,0 +1,15 @@
+# Python
+venv/
+env1/
+__pycache__/
+*.pyc
+fitforge.db
+
+# Node
+node_modules/
+build/
+
+# Misc
+.env
+.DS_Store
+*.log
